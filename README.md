@@ -1,67 +1,78 @@
-<h1 align="center">Olá, eu sou Cristian Lencina 👋</h1>
+<h1 align="center">Cristian Lencina</h1>
 
 <p align="center">
-  <strong>Criador de Produtos com IA • Especialista em IA Criativa • Tecnologia Imobiliária</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Aplica%C3%A7%C3%B5es+e+automa%C3%A7%C3%B5es+com+IA" alt="Aplicações e automações com IA" />
 </p>
 
 <p align="center">
-  Transformo problemas práticos em produtos, automações e experiências digitais com Inteligência Artificial.
+  <strong>Produtos digitais • IA criativa • Tecnologia imobiliária</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lencina-ai-082b9b3a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Cristian%20Lencina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://micro-apps-lencina-8bp7lr5ha-lencinaais-projects.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-Lencina.AI-6D5DFB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio Lencina.AI" />
-  </a>
+  <a href="https://www.linkedin.com/in/lencina-ai-082b9b3a1/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/lencina.ai/"><img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=EF4444" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@lencinaai"><img src="https://img.shields.io/badge/TikTok-0B1220?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.youtube.com/@Lencinaia"><img src="https://img.shields.io/badge/YouTube-0B1220?style=for-the-badge&logo=youtube&logoColor=EF4444" alt="YouTube" /></a>
+  <a href="https://micro-apps-lencina-8bp7lr5ha-lencinaais-projects.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0B1220?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfólio" /></a>
 </p>
 
 ---
 
-## Sobre mim
+## O que eu construo
 
-Crio soluções com IA desde a ideia até o produto utilizável. Meu trabalho une IA criativa, desenho de fluxos, conhecimento do mercado imobiliário e foco prático em ajudar pessoas e pequenos negócios a trabalharem melhor e divulgarem seu valor.
+Crio aplicações, automações e sistemas com IA para resolver problemas reais. Uno estratégia, design de fluxos e execução prática para transformar uma ideia em uma solução utilizável.
 
-- 🤖 Crio agentes de IA, prompts e automações para tarefas específicas.
-- 🎬 Desenvolvo fluxos de IA para imagens, vídeos, animações, áudio e conteúdo para redes sociais.
-- 🏠 Construo soluções para divulgação imobiliária, visualização de imóveis, captação de leads e gestão de propriedades.
-- 🧩 Transformo problemas pequenos e repetitivos em ferramentas digitais simples.
-- 🤝 Compartilho o que aprendo em mentorias informais sobre IA e em aulas gratuitas de skate para crianças iniciantes.
+- Sistemas e agentes de IA para tarefas específicas.
+- Automação de tarefas repetitivas e organização de processos.
+- Páginas profissionais e landing pages para empresas e profissionais.
+- Integrações de pagamento e comunicação entre sistemas por webhooks.
+- Micro-aplicativos para resolver problemas repetitivos.
+- Imagens, vídeos, animações, áudio e conteúdo com IA.
+- Soluções para mercado imobiliário, captação e apresentação de imóveis.
 
-## Projetos em destaque
+## Aplicações em destaque
 
-| Projeto | O que faz |
+| Aplicação | Resultado |
 | --- | --- |
-| [Lencina RS — CRM Imobiliário e Site Espelho](https://lencina-gey6zxbra-lencinaais-projects.vercel.app) | CRM interno para clientes, proprietários, imóveis, imagens e informações das propriedades, sincronizado com um site público de anúncios e páginas de conversão para cada imóvel. |
-| [Micro-apps Lencina.AI](https://micro-apps-lencina-8bp7lr5ha-lencinaais-projects.vercel.app) | Coleção de ferramentas práticas de IA para imagens imobiliárias, prompts de vídeo, mudanças de cena, legendas, timelapses, plantas e mais. |
-| [Mobiliando com IA](https://github.com/lencinaai/Mobiliando-com-ia) | Conceito de aplicação com IA para mobiliar ambientes vazios e ajudar clientes a visualizarem o potencial de um imóvel. |
-| Conheça Meu Trabalho | Plataforma de páginas profissionais na qual a pessoa cria conta, publica seu trabalho e edita a própria página sem depender de programador. |
-| COMECE Auto | Fluxo reutilizável que transforma solicitações, pesquisas e briefings de empresas em apresentações e documentos. |
+| [Lencina CRM — CRM Imobiliário e Sites de Alta Conversão](https://lencina-gey6zxbra-lencinaais-projects.vercel.app) | Gestão de clientes, proprietários, imóveis e imagens; site de anúncios espelhado no CRM com páginas de alta conversão automatizadas por IA. |
+| [Mobiliando com IA](https://github.com/lencinaai/Mobiliando-com-ia) | Transforma ambientes vazios em espaços mobiliados para ajudar clientes a visualizar o potencial de um imóvel. |
+| Conheça Meu Trabalho | Plataforma de páginas profissionais: cada pessoa cria, publica e atualiza sua página sem depender de programador. |
+| PPTX Automático — Fluxo Automatizado de PowerPoints | Transforma solicitações e briefings em apresentações e documentos prontos para uso, com a identidade visual da empresa. |
 
-## Ferramentas e áreas com que trabalho
+[Ver aplicações e repositórios](https://github.com/lencinaai?tab=repositories)
+
+## Ferramentas de trabalho
 
 <p>
-  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/IA%20Criativa-7C3AED?style=for-the-badge" alt="IA Criativa" />
-  <img src="https://img.shields.io/badge/Agentes%20de%20IA-0F766E?style=for-the-badge" alt="Agentes de IA" />
-  <img src="https://img.shields.io/badge/Automação-2563EB?style=for-the-badge" alt="Automação" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Claude%20Code-0B1220?style=flat-square&logo=anthropic&logoColor=38BDF8" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-0B1220?style=flat-square&logo=openai&logoColor=38BDF8" alt="Codex" />
+  <img src="https://img.shields.io/badge/n8n-0B1220?style=flat-square&logo=n8n&logoColor=EF4444" alt="n8n" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-0B1220?style=flat-square&logo=google&logoColor=38BDF8" alt="Google Apps Script" />
+  <img src="https://img.shields.io/badge/Vercel-0B1220?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Firebase-0B1220?style=flat-square&logo=firebase&logoColor=EF4444" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-0B1220?style=flat-square&logo=supabase&logoColor=38BDF8" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Hostinger-0B1220?style=flat-square&logo=hostinger&logoColor=38BDF8" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/VS%20Code-0B1220?style=flat-square&logo=visualstudiocode&logoColor=38BDF8" alt="VS Code" />
 </p>
 
-## Aprendizado e construção
+<p>
+  <a href="https://www.freepik.com/"><img src="https://img.shields.io/badge/Freepik-0B1220?style=flat-square&logo=freepik&logoColor=38BDF8" alt="Freepik" /></a>
+  <a href="https://higgsfield.ai/"><img src="https://higgsfield.ai/favicon.ico" height="18" alt="Higgsfield" title="Higgsfield" /></a>
+  <a href="https://deepmind.google/models/veo/"><img src="https://img.shields.io/badge/Veo%203-0B1220?style=flat-square&logo=google&logoColor=38BDF8" alt="Google Veo 3" /></a>
+  <a href="https://ai.google.dev/gemini-api/docs/image-generation"><img src="https://img.shields.io/badge/Nano%20Banana-0B1220?style=flat-square&logo=googlegemini&logoColor=38BDF8" alt="Nano Banana" /></a>
+  <sub>e outras ferramentas de IA criativa conforme o projeto.</sub>
+</p>
 
-Concluí trilhas de aprendizado em Claude, Claude Code, API da Anthropic, Model Context Protocol (MCP), subagentes, agent skills e AI Fluency. Tenho interesse especial em construir sistemas de IA úteis, compreensíveis e fáceis de manter.
+## Formação e aprendizado
 
-## Minha filosofia
+Trilhas concluídas em Claude, Claude Code, IA Fluency, API da Anthropic, Model Context Protocol (MCP), subagentes e agent skills.
 
-> Tecnologia tem valor quando faz algo difícil parecer possível para outra pessoa.
+Também participei do Pré-Mestrado Internacional em Inteligência Artificial da Faculdade HUB (5h), da Imersão I.A. para Infoprodutores (16h) e do Workshop Render com IA (13h). Possuo formação técnica em Transações Imobiliárias.
+
+## Parcerias
+
+Aberto a parcerias para criar aplicações e automações que resolvam problemas de pessoas, profissionais e empresas.
 
 ---
 
-<p align="center">
-  <i>Porto Alegre, Brasil • Aberto a criar coisas úteis com IA</i>
-</p>
+<p align="center"><i>Porto Alegre, Brasil</i></p>
