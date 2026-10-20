@@ -1,4 +1,4 @@
-<h1 align="center">Cristian Lencina</h1>
+<h1 align="center">Lencina AI</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=520&lines=Aplica%C3%A7%C3%B5es+e+automa%C3%A7%C3%B5es+com+IA" alt="Aplicações e automações com IA" />
